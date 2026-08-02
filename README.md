@@ -116,17 +116,30 @@ number-match-jsx/
 ```bash
 git clone https://github.com/Nandhuarumalla/number-match-jsx.git
 cd number-match-jsx
-2. Install dependencies
+```
+
+### 2. Install dependencies
+```bash
 npm install
-3. Run the project
+```
+
+### 3. Run the project
+```bash
 npm start
+```
 
-###🌟 Future Improvements
-🔊 Sound effects & animations
-📱 Play Store deployment
-🏆 Leaderboard system
-☁️ Backend integration
+---
 
-👩‍💻 Author
-Nandini Arumalla
+## 🌟 Future Improvements
+
+- 🔊 Sound effects & animations  
+- 📱 Play Store deployment  
+- 🏆 Leaderboard system  
+- ☁️ Backend integration  
+
+---
+
+## 👩‍💻 Author
+
+**Nandini Arumalla**  
 https://github.com/Nandhuarumalla
