@@ -81,22 +81,26 @@ This game provides:
 ---
 
 ## 📂 Project Structure
+```
 number-match-jsx/
 │
 ├── src/
-│ ├── components/
-│ │ └── Cell.js
-│ ├── config/
-│ │ └── level.js
-│ ├── logic/
-│ │ ├── addRowEngine.js
-│ │ ├── boardAnalyzer.js
-│ │ ├── boardGenerator.js
-│ │ ├── deadlockDetector.js
-│ │ ├── matchEngine.js
-│ │ └── solver.js
-│ ├── screens/
-│ │ └── GameScreen.js
+│   ├── components/
+│   │   └── Cell.js
+│   │
+│   ├── config/
+│   │   └── level.js
+│   │
+│   ├── logic/
+│   │   ├── addRowEngine.js
+│   │   ├── boardAnalyzer.js
+│   │   ├── boardGenerator.js
+│   │   ├── deadlockDetector.js
+│   │   ├── matchEngine.js
+│   │   └── solver.js
+│   │
+│   ├── screens/
+│   │   └── GameScreen.js
 │
 ├── App.js
 ├── index.js
@@ -104,6 +108,8 @@ number-match-jsx/
 ├── eas.json
 ├── package.json
 └── README.md
+```
+
 ## ⚙️ Installation & Setup
 
 ### 1. Clone the repository
