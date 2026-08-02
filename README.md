@@ -121,7 +121,7 @@ npm install
 3. Run the project
 npm start
 
-**🌟 Future Improvements**
+###🌟 Future Improvements
 🔊 Sound effects & animations
 📱 Play Store deployment
 🏆 Leaderboard system
